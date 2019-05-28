@@ -1,3 +1,6 @@
 # Directories to ignore
 dogImages/
 lfw/
+
+# Files to ignore
+/model_scratch.pt
